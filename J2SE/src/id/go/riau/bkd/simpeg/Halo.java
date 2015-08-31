@@ -6,9 +6,9 @@
 
 /**
  *
- * @author student8
+ * @author Jon Marifat
  */
-package id.go.riau.bkd.jonix; 
+package id.go.riau.bkd.simpeg; 
 
 public class Halo {
     public static void main (String args[]) {

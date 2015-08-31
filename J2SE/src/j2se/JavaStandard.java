@@ -7,9 +7,9 @@ package j2se;
 
 /**
  *
- * @author student8
+ * @author Jon Marifat
  */
-public class J2SE {
+public class JavaStandard {
 
     /**
      * @param args the command line arguments
